@@ -13,6 +13,10 @@ helps us to commit logical changes conveniently.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+We should add files to staging area of a same logical change. Before commit, we
+could use "git diff --staged" to check whether all files in a certain logical 
+change has been added to the staging area.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
