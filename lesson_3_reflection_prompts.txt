@@ -11,7 +11,9 @@ I can focus on my work without being confused by remote changes
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Fork will create a repository on github based on the source of folk. Clone will
+create a copy of repository on local machine based on the source of clone. And
+branch will create a commit based on origin commit history.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
